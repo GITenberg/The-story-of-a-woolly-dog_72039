@@ -5,6 +5,9 @@ contributor:
     agent_name: Smith, Harry L.
     gutenberg_agent_id: '7268'
     url: http://www.gutenberg.org/2009/agents/7268
+covers:
+- cover_type: archival
+  image_path: 72039-h/images/cover.jpg
 creator:
   author:
     agent_name: Hope, Laura Lee
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/367
     wikipedia: https://en.wikipedia.org/wiki/Laura_Lee_Hope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72039#The-story-of-a-woolly-dog
 gutenberg_issued: '2023-11-05'
 identifiers:
   gutenberg: '72039'
